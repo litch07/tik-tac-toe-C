@@ -17,8 +17,8 @@ A simple command-line Tic-Tac-Toe game written in C with score tracking and matc
 ## 📥 Clone
 
 ```text
-git clone https://github.com/litch07/tik-tac-toe-C.git
-cd tik-tac-toe-C
+git clone https://github.com/litch07/tik-tac-toe-c.git
+cd tik-tac-toe-c
 ```
 
 ## 🛠️ Build (Windows)
